@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+input {
+  padding: 0.5rem 1rem;
+  margin-top: 2rem;
+}
+ul,
+li {
+  list-style: none;
+}
+
+img {
+  width: 350px;
+  height: 400px;
+}
+.ımages {
+  display: flex;
+}
